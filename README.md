@@ -5,6 +5,9 @@ This is a SPA (Single Page Application) created using the power of Vue.js
 To create this project, I use the next technologies: Vue.js + Vue Router + TypeScript + Tailwind CSS + Pinia for state management + Vite.js
 This SPA is totally responsive.
 
+You can try the SPA clicking the next Netlify's link:
+[](https://tigo-payment-app-clone.netlify.app/)
+
 The views look like so:
 - Home View
   
