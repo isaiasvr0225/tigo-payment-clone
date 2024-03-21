@@ -6,7 +6,7 @@ To create this project, I use the next technologies: Vue.js + Vue Router + TypeS
 This SPA is totally responsive.
 
 You can try the SPA clicking the next Netlify's link:
-[](https://tigo-payment-app-clone.netlify.app/)
+[Click here](https://tigo-payment-app-clone.netlify.app/)
 
 The views look like so:
 - Home View
